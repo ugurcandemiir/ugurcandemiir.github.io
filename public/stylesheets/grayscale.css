@@ -168,11 +168,11 @@
 }
 
 .btn-primary:hover {
-  background-color: #b875ab;
+  background-color: #7a93ce;
 }
 
 .btn-primary:focus {
-  background-color: #b875ab;
+  background-color: #7a93ce;
   color: white;
 }
 
@@ -290,16 +290,16 @@
 
 .contact-section .social a {
   text-align: center;
-  /* variant of color: #b875ab; */
+  /* variant of color: #7a93ce; */
 }
 
 .contact-section .social a:hover {
-   /* variant of color: #b875ab; */
+   /* variant of color: #7a93ce; */
     color: #b474a7;
 }
 
 .contact-section .social a:active {
-   /* variant of color: #b875ab; */
+   /* variant of color: #7a93ce; */
    color: #97628c;
 }
 
@@ -314,7 +314,7 @@ a {
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #b875ab;
+  color: #7a93ce;
 }
 
 .bg-black {
