@@ -1,2 +1,3 @@
-# ugurcandemir.github.io
-My personal website
+# My personal website
+
+Welcome to my personal portfolio! This contains my resume / some selected personal projects I've pursued.
