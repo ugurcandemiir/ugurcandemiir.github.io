@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #d371c0;
-  border: 1px solid #d371c0;
+  color: #476fca;
+  border: 1px solid #476fca;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -74,15 +74,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #d371c0;
+    color: #476fca;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #904d83;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #d371c0;
+    color: #476fca;
     outline: none;
-    border-bottom: 0.25rem solid #d371c0;
+    border-bottom: 0.25rem solid #476fca;
   }
 }
 
@@ -164,7 +164,7 @@
 }
 
 .btn-primary {
-  background-color: #d371c0;
+  background-color: #476fca;
 }
 
 .btn-primary:hover {
@@ -208,11 +208,11 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #d371c0;
+    border-left: 0.5rem solid #476fca;
   }
   .work-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #d371c0;
+    border-left: 0.5rem solid #476fca;
   }
 }
 
@@ -230,14 +230,14 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #d371c0;
+    border-color: #476fca;
     border-width: .25rem;
     width: 30%;
   }
   .work-section .project-text {
   }
   .work-section .project-text hr {
-    border-color: #d371c0;
+    border-color: #476fca;
     border-width: .25rem;
     width: 30%;
   }
@@ -272,7 +272,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #d371c0;
+  border-bottom: 0.25rem solid #476fca;
 }
 
 .contact-section .card h4 {
@@ -283,7 +283,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #d371c0;
+  border-color: #476fca;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -309,7 +309,7 @@ body {
 }
 
 a {
-  color: #d371c0;
+  color: #476fca;
 }
 
 a:focus, a:hover {
@@ -322,11 +322,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #d371c0 !important;
+  background-color: #476fca !important;
 }
 
 .text-primary {
-  color: #d371c0 !important;
+  color: #476fca !important;
 }
 
 footer {
@@ -349,7 +349,7 @@ footer {
   border-style: solid;
   display:inline;
   border-radius: 10px;
-  border-color: #d371c0;
+  border-color: #476fca;
   padding:5px;
   height: 88px;
   line-height: 88px;
